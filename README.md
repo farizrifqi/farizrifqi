@@ -47,3 +47,10 @@ Hi, I'm Fariz Rifqi, a self-taught fullstack web developer from Indonesia.
 
 <img src="https://github-readme-stats.vercel.app/api?username=farizrifqi&show_icons=true&theme=dracula&hide=contribs&count_private=true&disable_animations=false&hide_border=true&line_height=24"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=farizrifqi&hide_border=true&layout=compact&theme=dracula&card_width=374"/>
 
+<h2 align="center"></h2>
+<p align="center">
+  If you'd like to treat me cigars, here's my <a href="https://saweria.co/zeranel" target="_blank">Saweria.co</a>
+</p>
+<p align="center">
+  Made with ♥
+</p>
