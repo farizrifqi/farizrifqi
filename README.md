@@ -45,9 +45,8 @@ Hi, I'm Fariz Rifqi, a self-taught fullstack web developer from Indonesia.
 
 ## My Github
 ### Statistic
-[![Fariz Rifqi's GitHub stats](https://github-readme-stats.vercel.app/api?username=farizrifqi&show_icons=true&theme=dracula&count_private=true)](https://github.com/farizrifqi)
-### Most used Language
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=farizrifqi&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+<img src="https://github-readme-stats.vercel.app/api?username=farizrifqi&show_icons=true&theme=dracula&count_private=true"/>
 
-[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal)](https://github.com/PiyushSuthar/github-readme-quotes)
+### Most used Language
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=farizrifqi&hide_border=true&layout=compact&theme=dracula"/>
 
