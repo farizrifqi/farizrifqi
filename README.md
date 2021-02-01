@@ -12,7 +12,7 @@ Hi, I'm Fariz Rifqi, a self-taught fullstack web developer from Indonesia.
 - 🎓 I’m currently studying on International Islamic University of Indonesia
 - 🌱 I’m currently learning on Software Engineering, CyberSecurity, and Business
 - 👯 I’m looking to collaborate on bug bounty programs and web development
-- 💬 Ask me about anything [here](https://github.com/farizrifqi/farizrifqi/issues)
+- 💬 Ask me about anything <a href="https://github.com/farizrifqi/farizrifqi/issues" target="_blank">here</a>
 - ⚡ Fun fact: coffee is my water
 
 ### Languages  
