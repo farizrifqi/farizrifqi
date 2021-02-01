@@ -1,13 +1,14 @@
 <h1 align="center">Welcome to my Github</h1>
-<p align="center">Scroll down if you want know more about me.</p>
 
 ## Simple About Me
 
+Hi, I'm Fariz Rifqi, a self-taught fullstack web developer from Indonesia.
+
 - 🎓 I’m currently studying on International Islamic University of Indonesia
-- 🌱 I’m currently learning on Software Engineering, CyberSecurity, and Business.
-- 👯 I’m looking to collaborate on bug bounty programs and web development.
-- 💬 Ask me about Python, Java, C++, and web development.
-- ⚡ Fun fact: coffee is my water.
+- 🌱 I’m currently learning on Software Engineering, CyberSecurity, and Business
+- 👯 I’m looking to collaborate on bug bounty programs and web development
+- 💬 Ask me about anything [here](https://github.com/farizrifqi/farizrifqi/issues)
+- ⚡ Fun fact: coffee is my water
 
 ## My Github
 ### Statistic
