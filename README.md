@@ -20,7 +20,7 @@ Hi, I'm Fariz Rifqi, a self-taught fullstack web developer from Indonesia.
 
 <img src="https://img.shields.io/badge/OS-Windows-blue?&logo=Windows"/> <img src="https://img.shields.io/badge/IDE-Atom-green?&logo=Atom"/> <img src="https://img.shields.io/badge/IDE-Microsoft%20Visual%20Studio-blue?&logo=visual-studio-code"/> <img src="https://img.shields.io/badge/IDE-Repl.it-darkgray?&logo=repl.it"/>
 <br/>
-<img src="https://img.shields.io/badge/Host-Heroku-purple?&logo=heroku"/>
+<img src="https://img.shields.io/badge/Host-Github-darkgray?&logo=github"/> <img src="https://img.shields.io/badge/Host-Heroku-purple?&logo=heroku"/>
 
 ### Connect with me
 <p align="left">
