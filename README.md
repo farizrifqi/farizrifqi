@@ -1,4 +1,4 @@
-<h1 align="center">Welcome to my Github</h1>
+<h1 align="center"F A R I Z R I F Q I</h1>
 
 <p align="center">
 <img src="https://farizrifqi.github.io/x.gif">
