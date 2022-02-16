@@ -1,6 +1,9 @@
 <h1 align="center">Welcome to my Github</h1>
 
 <p align="center">
+<img src="https://farizrifqi.github.io/x.gif">
+</p>
+<p align="center">
   <img src="https://komarev.com/ghpvc/?username=farizrifqi&label=Profile%20views&color=0e75b6&style=flat" alt="farizrifqi" />
   <img src="https://visitor-badge.glitch.me/badge?page_id=farizrifqi.farizrifqi" alt="farizrifqi" />
 </p>
