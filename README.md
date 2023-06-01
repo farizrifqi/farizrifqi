@@ -1,7 +1,7 @@
 <h1 align="center">F A R I Z R I F Q I</h1>
 
 <p align="center">
-<img src="https://farizrifqi.github.io/x.gif">
+<img src="https://raw.githubusercontent.com/farizrifqi/farizrifqi/5ef25e14a8805ee83d6f2a98b908fbee290e2e45/x.gif">
 </p>
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=farizrifqi&label=Profile%20views&color=0e75b6&style=flat" alt="farizrifqi" />
