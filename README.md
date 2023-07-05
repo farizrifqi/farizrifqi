@@ -12,18 +12,20 @@ A self-taught fullstack web developer from Indonesia.
 
 ### Connect with me
 <p align="left">
+<a href="https://twitter.com/makhluksuperior" target="_blank">
+<img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?&style=flat-square&logo=twitter&logoColor=white" alt=instagram style="margin-bottom: 5px;" /></a>
 <a href="https://instagram.com/frz.ra" target="_blank">
-<img src="https://img.shields.io/badge/instagram-%23000000.svg?&style=flat-square&logo=instagram&logoColor=white" alt=instagram style="margin-bottom: 5px;" /></a>
+<img src="https://img.shields.io/badge/Instagram-%23000000.svg?&style=flat-square&logo=instagram&logoColor=white" alt=instagram style="margin-bottom: 5px;" /></a>
 <a href="https://t.me/kidrypto" target="_blank">
 <img src="https://img.shields.io/badge/Telegram-2CA5E0?&style=flat-square&logo=telegram&logoColor=white" alt=telegram style="margin-bottom: 5px;" /></a> 
 <a href="https://www.facebook.com/farizrifqi26" target="_blank">
-<img src="https://img.shields.io/badge/facebook-%232E87FB.svg?&style=flat-square&logo=facebook&logoColor=white" alt=facebook style="margin-bottom: 5px;" /></a>
+<img src="https://img.shields.io/badge/Facebook-%232E87FB.svg?&style=flat-square&logo=facebook&logoColor=white" alt=facebook style="margin-bottom: 5px;" /></a>
 <a href="mailto:farizrifqi26@gmail.com" target="_blank">
 <img src="https://img.shields.io/badge/Gmail-D14836.svg?&style=flat-square&logo=gmail&logoColor=white" alt=gmail style="margin-bottom: 5px;" /></a>
 <a href="https://linkedin.com/in/fariz-rifqi-73338a187" target="_blank">
-<img src="https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt=linkedin style="margin-bottom: 5px;" /></a>
+<img src="https://img.shields.io/badge/LinkedIn-%231E77B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt=linkedin style="margin-bottom: 5px;" /></a>
 <a href="https://stackoverflow.com/users/13524659" target="_blank">
-<img src="https://img.shields.io/badge/stackoverflow-%23F28032.svg?&style=flat-square&logo=stackoverflow&logoColor=white" alt=stackoverflow style="margin-bottom: 5px;" /></a>
+<img src="https://img.shields.io/badge/Stackoverflow-%23F28032.svg?&style=flat-square&logo=stackoverflow&logoColor=white" alt=stackoverflow style="margin-bottom: 5px;" /></a>
 <a href="https://www.hackerrank.com/farizrifqi" target="_blank">
 <img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=flat-square&logo=HackerRank&logoColor=white" alt=hackerrank style="margin-bottom: 5px;" /></a>
 </p>
@@ -37,8 +39,7 @@ This page were mean to tell everyone about what things that i ever learn and use
 
 <h2 align="center"></h2>
 <p align="center">
-<a href="https://twitter.com/makhluksuperior" target="_blank"><img src="https://img.shields.io/twitter/follow/makhluksuperior?label=Follow&logo=Twitter&style=for-the-badge&color=1d9bf0" height="25"/></a> <a href="https://discord.gg/E4qRjv4" target="_blank"><img src="https://img.shields.io/discord/590517958355451904?color=5865F2&label=Server&logo=discord&style=for-the-badge" height="25"/></a> <a href="https://www.reddit.com/user/zeranel" target="_blank"><img src="https://img.shields.io/reddit/user-karma/link/zeranel?color=ff4500&label=karma&logo=reddit&style=for-the-badge" height="25"/></a>
-  <br/><br/>
+  <br/>
   ♦ ♦ ♦<br/><br/>
 </p>
 <p align="center">
