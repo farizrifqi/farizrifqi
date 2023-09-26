@@ -12,27 +12,21 @@ A self-taught fullstack web developer from Indonesia.
 
 ### Connect with me
 <p align="left">
-<a href="https://twitter.com/makhluksuperior" target="_blank">
+<a href="https://twitter.com/zeranel" target="_blank">
 <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?&style=flat-square&logo=twitter&logoColor=white" alt=instagram style="margin-bottom: 5px;" /></a>
 <a href="https://instagram.com/frz.ra" target="_blank">
 <img src="https://img.shields.io/badge/Instagram-%23000000.svg?&style=flat-square&logo=instagram&logoColor=white" alt=instagram style="margin-bottom: 5px;" /></a>
 <a href="https://t.me/kidrypto" target="_blank">
 <img src="https://img.shields.io/badge/Telegram-2CA5E0?&style=flat-square&logo=telegram&logoColor=white" alt=telegram style="margin-bottom: 5px;" /></a> 
-<a href="https://www.facebook.com/farizrifqi26" target="_blank">
-<img src="https://img.shields.io/badge/Facebook-%232E87FB.svg?&style=flat-square&logo=facebook&logoColor=white" alt=facebook style="margin-bottom: 5px;" /></a>
 <a href="mailto:farizrifqi26@gmail.com" target="_blank">
 <img src="https://img.shields.io/badge/Gmail-D14836.svg?&style=flat-square&logo=gmail&logoColor=white" alt=gmail style="margin-bottom: 5px;" /></a>
 <a href="https://linkedin.com/in/fariz-rifqi-73338a187" target="_blank">
 <img src="https://img.shields.io/badge/LinkedIn-%231E77B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt=linkedin style="margin-bottom: 5px;" /></a>
-<a href="https://stackoverflow.com/users/13524659" target="_blank">
-<img src="https://img.shields.io/badge/Stackoverflow-%23F28032.svg?&style=flat-square&logo=stackoverflow&logoColor=white" alt=stackoverflow style="margin-bottom: 5px;" /></a>
-<a href="https://www.hackerrank.com/farizrifqi" target="_blank">
-<img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=flat-square&logo=HackerRank&logoColor=white" alt=hackerrank style="margin-bottom: 5px;" /></a>
 </p>
 
 ## My Github
 
-<img src="https://github-readme-stats.vercel.app/api?username=farizrifqi&show_icons=true&theme=dracula&hide=contribs&count_private=true&disable_animations=false&hide_border=true&line_height=24&no-bg=true"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=farizrifqi&hide_border=true&layout=compact&theme=dracula&card_width=374&no-bg=true"/> <img src="https://github-profile-trophy.vercel.app/?username=farizrifqi&layout=compact&theme=dracula&title=MultiLanguage,Stars,Repositories&margin-w=10&margin-h=10&no-frame=true&no-bg=true"/>
+<img src="https://github-readme-stats.vercel.app/api?username=farizrifqi&show_icons=true&theme=dracula&hide=contribs&count_private=true&disable_animations=false&hide_border=true&line_height=24&no-bg=true"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=farizrifqi&hide_border=true&layout=compact&theme=dracula&card_width=374&no-bg=true"/>
 
 ##### Disclaimer
 This page were mean to tell everyone about what things that i ever learn and use. Also for self-reminder about how long i ever <i>walking</i> around <i>this world</i> and i'll take conclusion about <i>what should i learn or try?</i>. Doesn't mean to be show off or else.
