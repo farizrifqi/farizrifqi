@@ -34,10 +34,12 @@ This page were mean to tell everyone about what things that i ever learn and use
 <h2 align="center"></h2>
 <p align="center">
   <br/>
-  ♦ ♦ ♦<br/><br/>
+  
+  [![An image of @farizrifqi's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/farizrifqi)](https://holopin.io/@farizrifqi)
+
 </p>
 <p align="center">
-  If you'd like to treat me cigars<br/><br/>
+<br/>
   <a href="https://saweria.co/zeranel" target="_blank"><img src="https://img.shields.io/badge/Saweria-red?style=for-the-badge&logo="/></a> <a href="https://bscscan.com/address/0xc3a49989d68b88e6DA6a0eEACe00BE6E8aAE03E7" target="_blank"><img src="https://img.shields.io/badge/Binance%20Smart%20Chain-red?style=for-the-badge&logo=binance&logoColor=FCD535"/></a> <a href="https://bscscan.com/address/0xc3a49989d68b88e6DA6a0eEACe00BE6E8aAE03E7" target="_blank"><img src="https://img.shields.io/badge/Ethereum-red?style=for-the-badge&logo=ethereum&logoColor=white"/></a>
 </p>
 <p align="center">
@@ -45,3 +47,5 @@ This page were mean to tell everyone about what things that i ever learn and use
   <br/><br/>
   <img src="https://forthebadge.com/images/badges/works-on-my-machine.svg" height="30"/>
 </p>
+
+
